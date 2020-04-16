@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	font-size: 45px;
+}
+clickMe {
+	display: flex;
+	justify-content: center;
+}
+h2 {
+	text-align: left;
+}
